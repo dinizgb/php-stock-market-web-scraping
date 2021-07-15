@@ -52,7 +52,7 @@ elseif(strpos($gbp_separated[1],"-") !== false){
 }
 ?>
 
-<html>
+<html lang="en">
 <head>
 <style>
 .flex-container {
